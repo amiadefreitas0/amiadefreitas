@@ -1,10 +1,10 @@
 html{
-    background-image: url('/Users/amiadefreitas/Portfolio/images/coding.jpg');
+    background-image: url('https://i.postimg.cc/QtNMwDC9/coding.jpg');
     font-family:  Arial, Helvetica, sans-serif;
 }
 .resume_main, .resume_i, .title-name, #home{
 
-    background-image: url('/Users/amiadefreitas/Portfolio/images/coding.jpg');
+    background-image: url('https://i.postimg.cc/QtNMwDC9/coding.jpg');
     background-repeat: initial;
 
 }
