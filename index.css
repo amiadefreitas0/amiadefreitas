@@ -1,12 +1,15 @@
 html{
-    background-image: url('https://i.postimg.cc/QtNMwDC9/coding.jpg');
+    /* background-image: url('https://i.postimg.cc/QtNMwDC9/coding.jpg'); */
     font-family:  Arial, Helvetica, sans-serif;
 }
 .resume_main, .resume_i, .title-name, #home{
 
-    background-image: url('https://i.postimg.cc/QtNMwDC9/coding.jpg');
+    /* background-image: url('https://i.postimg.cc/QtNMwDC9/coding.jpg'); */
     background-repeat: initial;
 
+}
+.logo{
+    font-size: 34px;
 }
 .experience_list{
     margin-bottom: 20px;
@@ -25,28 +28,40 @@ p.list_item{
     color: black;
 }
 .name{
+    font-family: 'Old Standard TT';
+    margin-left: 20px;
     padding: 0px;
     padding-top: 15px;
     text-align: center;
-    color: white;
+    color: black;
 }
 .nav-ul li{
-    padding:10px;
-    margin: 55px;
+    padding:20px;
+    margin: 35px;
     display: inline;
+    font-family: 'Old Standard TT';
+    font-size: 14px;
+ 
+
 }
 .list_item{
     margin-bottom: 5px;
 }
 li.nav-li a{
     padding: 13px;
-    color: white;
-    text-decoration: none;
+    color: black;
+    text-decoration: underline;
 }
 .regular{
     margin-left:55px;
     margin-right: 55px;
     margin-bottom: 55px;
+}
+.nav-ul{
+    /* border-radius:5px;
+    border-style: solid;
+    border-top: black;
+    border-bottom: black; */
 }
 
 .service_header{
@@ -55,19 +70,17 @@ li.nav-li a{
     text-decoration: underline;
 }
 .nav-ul li :hover{
-    color: black;
-    background-color: white;
 
 }
 div #nav-menu{
-    background-color: rgb(29, 22, 22);opacity: 0.9;
+    background-color: rgba(12, 12, 12, 0);
     padding:3px;
     margin:0px;
 }
 
 .sub_name, .contact_links{
     text-align: center;
-    color: white;
+    color: black;
 }
 
 .sub_name{
